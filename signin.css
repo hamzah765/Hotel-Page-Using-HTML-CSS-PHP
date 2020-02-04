@@ -1,0 +1,25 @@
+body{
+    background-image: url(./img/ist1.jpg);
+    background-size: cover;
+}
+
+.signin{
+    text-align: center;
+    padding: 30px;
+    margin: 8% auto;
+    background:black;
+     color: white;
+    width: 50%;
+    border-bottom: 3px solid white;
+    font-family: 'Bitter', serif;
+    border-radius:30px; 
+}
+.submit{
+    font-family: 'Bitter', serif;
+    border-radius:30px; 
+    margin-top: 10px;
+}
+input{
+    font-family: 'Bitter', serif;
+    border-radius:30px; 
+}
